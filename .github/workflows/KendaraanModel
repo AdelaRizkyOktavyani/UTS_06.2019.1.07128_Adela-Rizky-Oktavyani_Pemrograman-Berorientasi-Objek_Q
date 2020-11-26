@@ -18,8 +18,4 @@ public class KendaraanModel{
         return kendaraanEntityArrayList.get(index);
     }
     
-    public void delete(int index){
-        kendaraanEntityArrayList.remove(index);
-    }
-    
 }
